@@ -24,4 +24,4 @@ debian/*.substvars
 INSTALL
 Makefile.in
 Makefile
-
+/generated-templates/
